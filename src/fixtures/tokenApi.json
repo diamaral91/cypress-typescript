@@ -1,0 +1,10 @@
+{
+    "url": "https://sf.dev.s.com",
+    "header": {
+        "OcpApimSubscriptionKey": "bc008910a309ef0b37c9868455",
+        "Authorization": "Bearer "
+    },
+    "postAuthenticate":{
+        "path": "/api/AccountAPI/authenticate"
+    }
+}

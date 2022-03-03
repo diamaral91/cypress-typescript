@@ -1,0 +1,14 @@
+{
+    "url": "https://api-api.net/bff/dev",
+    "externalId": "1654ccdd-4e53-ac4f-a67a287ebcd5",
+    "header": {
+        "Ocp-Apim-Subscription-Key": "a879b3ead24b",
+        "Authorization": "Bearer "
+    },
+    "getByFilters":{
+        "path": "/b/i"
+    },
+    "getPaymentsLinkOverview":{
+        "path": "/b/i/d"
+    }
+}
